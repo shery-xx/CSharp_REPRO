@@ -14,5 +14,6 @@ namespace NameSpaceData
     static public class CodePortTest
     {
         public integer count = 0;
+        public static string = "xyz";
     }
 }
